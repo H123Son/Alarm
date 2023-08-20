@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <string name="arg_alarm_obj">AlarmObject</string>
+    <string name="bundle_alarm_obj">BundleAlarmObject</string>
+    <string name="alarm_title">My Alarm</string>
+    <string name="dayNightTheme">DayNightTheme</string>
+    <string name="up_premium">Up premium</string>
+    <string name="buy_15_more_plays">buy 15 more plays</string>
+    <string name="buy_10_more_plays">buy 10 more plays</string>
+    <string name="buy_5_more_plays">buy 5 more plays</string>
+    <string name="done">Done</string>
+</resources>

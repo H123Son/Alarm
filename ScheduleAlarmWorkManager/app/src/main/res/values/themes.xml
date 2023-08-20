@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ScheduleAlarmWorkManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorAccent">@color/colorAccentgrad</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+
+    <style name="Base.Theme.ScheduleAlarmWorkManager.AppBarOverlay" />
+
+    <style name="Base.Theme.ScheduleAlarmWorkManager.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.ScheduleAlarmWorkManager" parent="Base.Theme.ScheduleAlarmWorkManager" />
+</resources>

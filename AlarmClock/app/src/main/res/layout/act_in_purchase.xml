@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <Button
+            android:id="@+id/btn_open_store1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="28dp"
+            android:layout_marginEnd="32dp"
+            android:textColor="#22100B"
+            android:backgroundTint="#953FAA70"
+            android:fontFamily="sans-serif-medium"
+            android:elevation="10dp"
+            android:text="buy 5 more plays" />
+
+    <Button
+            android:id="@+id/btn_open_store2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="28dp"
+            android:layout_marginEnd="32dp"
+            android:textColor="#1E0C85"
+            android:backgroundTint="#9541C37C"
+            android:elevation="10dp"
+            android:text="buy 10 more plays" />
+
+    <Button
+            android:id="@+id/btn_open_store3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:textStyle="bold"
+            android:textColor="#95061B0F"
+            android:layout_marginTop="32dp"
+            android:layout_marginEnd="32dp"
+            android:backgroundTint="#9541C37C"
+            android:elevation="10dp"
+            android:text="buy 15 more plays" />
+
+
+    <Button
+            android:id="@+id/button_done"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:backgroundTint="#B8BAA8"
+            android:text="Done"
+            android:textColor="#150606"
+            android:textSize="12sp" />
+</LinearLayout>
